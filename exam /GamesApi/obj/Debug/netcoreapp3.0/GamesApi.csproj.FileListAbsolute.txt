@@ -1,0 +1,15 @@
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/GamesApi.csprojAssemblyReference.cache
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/staticwebassets/GamesApi.StaticWebAssets.Manifest.cache
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/staticwebassets/GamesApi.StaticWebAssets.xml
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/GamesApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/GamesApi.AssemblyInfoInputs.cache
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/GamesApi.AssemblyInfo.cs
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/bin/Debug/netcoreapp3.0/GamesApi
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/bin/Debug/netcoreapp3.0/GamesApi.dll
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/bin/Debug/netcoreapp3.0/GamesApi.pdb
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/GamesApi.RazorTargetAssemblyInfo.cache
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/GamesApi.dll
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/obj/Debug/netcoreapp3.0/GamesApi.pdb
+/Users/benjaminle/Documents/Høyskolen_Kristiania/3_året_1_semester/PGR302_Webutvikling/exam/GamesApi/bin/Debug/netcoreapp3.0/launchSettings.json
